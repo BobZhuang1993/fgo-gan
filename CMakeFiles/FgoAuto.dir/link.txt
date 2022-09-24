@@ -1,0 +1,3 @@
+D:\mod\CMake\bin\cmake.exe -E rm -f CMakeFiles\FgoAuto.dir/objects.a
+D:\mod\mingw64\bin\ar.exe qc CMakeFiles\FgoAuto.dir/objects.a @CMakeFiles\FgoAuto.dir\objects1.rsp
+D:\mod\mingw64\bin\gcc.exe -mwindows -Wl,--whole-archive CMakeFiles\FgoAuto.dir/objects.a -Wl,--no-whole-archive -o FgoAuto.exe -Wl,--out-implib,libFgoAuto.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FgoAuto.dir\linklibs.rsp

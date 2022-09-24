@@ -1,0 +1,3 @@
+D:/c_project/fgo/CMakeFiles/FgoAuto.dir
+D:/c_project/fgo/CMakeFiles/edit_cache.dir
+D:/c_project/fgo/CMakeFiles/rebuild_cache.dir

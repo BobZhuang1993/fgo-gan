@@ -1,0 +1,15 @@
+#include "../part/resource.h"
+
+ID_ICON	ICON DISCARDABLE "favicon.ico"
+
+MY_MENU MENU
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "退出(&X)",ID_EXIT
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于(&A)",ID_ABOUT
+    END
+END

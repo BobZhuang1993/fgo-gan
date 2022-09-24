@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "pic.h": "c",
+        "array": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "draw.h": "c",
+        "sstream": "c"
+    }
+}
